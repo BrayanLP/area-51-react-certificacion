@@ -267,7 +267,7 @@ section > div {
   font-size: 25px;
   outline: none;
   padding: 0 1rem;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
 }
 .wrapper {
   display: flex;

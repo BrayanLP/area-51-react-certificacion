@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import { Container } from './components/Container'
+import { Container } from './containers/Container'
 import UserComponent from './components/UserComponent'
 
 const App = () => {
